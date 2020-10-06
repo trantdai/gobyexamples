@@ -11,5 +11,12 @@ func main() {
 	//switchfunc()
 	//arrayfunc()
 	//slices()
-	maps()
+	//maps()
+	//ranges()
+	//testfunctions()
+	//multireturn()
+	//variadicfunc()
+	//clousures()
+	//recursion()
+	structs()
 }

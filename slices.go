@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func slices() {
+	//An array type definition specifies a length and an element type. An array's size is fixed; its length is part of its type ([4]int and [5]int are distinct, incompatible types.
+	//The type specification for a slice is []T, where T is the type of the elements of the slice. Unlike an array type, a slice type has no specified length.
 	//Create an empty string of 3 elements
 	s := make([]string, 3)
 	fmt.Println("emp:", s)
